@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladkanatov)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vladkanatov)
