@@ -9,7 +9,7 @@
 * VSU bachelor degree (2027 y.)
 * 1 year working on [parsing](https://github.com/OutOfMystic/parsing) project
 * Internship in [Evrone](https://evrone.com/) as a DevOps Engineer
-* Work for [JSC Transset](https://transset.ru/) as a DevOps Engineer
+* Working for [JSC Transset](https://transset.ru/) as a DevOps Engineer
 
 ## Skills
 <p align="left">
